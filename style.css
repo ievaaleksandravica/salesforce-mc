@@ -75,7 +75,7 @@ body {
   border-radius: 10px;
   z-index: 100;
   position: absolute;
-  margin: 0 auto;
+  margin: 0 20px;
   opacity: 0.4;
   background-color: #000022;
 }
@@ -191,37 +191,6 @@ h1 {
   color: #fff;
 }
 
-.feb {
-  background-color: #3560a0;
-}
-
-.mar {
-  background-color: #910d8f;
-}
-
-.apr {
-  background-color: #0b218e;
-}
-
-.may {
-  background-color: #c91212;
-}
-
-.june {
-  background-color: #e27304;
-}
-
-.july {
-  background-color: #5379c6;
-}
-
-.september {
-  background-color: #750303;
-}
-
-.october {
-  background-color: #bc4c0b;
-}
 
 .header,
 .footer {
